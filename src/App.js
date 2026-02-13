@@ -23,7 +23,7 @@ import ThankYou from "./components/ThankYou"; // ⬅️ Add this
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/tef-canada-trial-class">
       <Routes>
 
         {/* 🎉 THANK YOU PAGE ROUTE */}
